@@ -1,0 +1,128 @@
+*{
+    font-family: "Garamond", Times, serif;
+}
+
+
+.logo{
+width: 250px;
+height: 250px;
+display:block;
+margin:auto;
+}
+a{
+    text-decoration: none;
+    color: black;
+    
+}
+
+.menu{
+    text-align:center;
+    background-color: #47A76A;
+    padding: 10px;
+}
+
+body{
+    margin: 0;
+    background-image: url(https://static.orgpage.ru/socialnewsphotos/13/1323bdae6eca4b3dae0e5884d6bea799.jpg);
+}
+
+.MENUtext{
+    color: white;
+    font-size: 18pt;
+    margin-right: 100px;
+}
+
+.textGlav{
+    background-color: white;
+    width: 800px;
+    height: 250px;
+    margin: 0 auto;
+    padding: 30px;
+    font-size: 14pt;
+}
+
+.fotoPosleShapki{
+    width: 300px;
+    float:left;
+    padding: 10px;
+}
+
+.sodMenu{
+    text-align:center;
+    background-color: #47A76A;
+    padding: 14px;
+    color: white;
+    font-size: 18pt;
+    margin: 0 auto;
+}
+
+.EDAmenu{
+    background-color: white;
+    padding: 10px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+h3{
+    margin: 0%;
+    padding: 10px;
+}
+
+.fotoMenu{
+    width: 300px;
+}
+
+table{
+    width: 100%;
+    background-color: white;
+    margin: 0 auto;
+}
+
+.stolbNAz{
+    font-size: 20pt;
+}
+
+.KOMmenu{
+    background-color: white;
+    padding: 10px;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 25pt;
+}
+
+.regSilka {
+    color: black; 
+   }
+   .regSilka:hover {
+    text-decoration: none; /* Убираем подчеркивание */
+    color: #fff; /* Цвет ссылки при наведении на нее курсора мыши */  
+    background: grey; /* Цвет фона */
+   }
+
+
+
+
+
+
+
+
+footer{
+    background-color: #47A76A;
+}
+
+.fotoFOOTER{
+    padding: 10px;
+    display:block;
+margin:auto;
+
+}
+
+.menuFoot{
+    text-align:center;
+    background-color: #47A76A;
+    padding: 20px;
+    color: white;
+    font-size: 18pt;
+}
+
+
